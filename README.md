@@ -1,6 +1,11 @@
 ### Hi there I'm Noë Flatreaud 👋
 Isn't it cofee time ? ☕
 
+### Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=jellyfish101&theme=blue-green)
+
+
 ### 💾 Tools & Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
