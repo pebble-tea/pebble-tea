@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Noë Flatreaud 👋
 Isn't it cofee time ? ☕
 
 ### 💾 Tools & Technologies
