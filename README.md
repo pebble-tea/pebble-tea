@@ -1,4 +1,4 @@
-### Hi there I'm Noe FLT (🗿🍵) 👋
+### Hi there I'm flatrean (🗿🍵) 👋
 Isn't it cofee time ? ☕
 
 ### Statistics
