@@ -3,7 +3,7 @@ Isn't it cofee time ? ☕
 
 ### Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=da-pebble-tea&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=pebble-tea&theme=blue-green)
 
 ### 💾 Tools & Technologies
 
